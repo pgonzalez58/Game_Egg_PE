@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.necro369.spaceadventure" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Space adventure</name>
+<widget id="2495157" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Game Egg</name>
     <description>
-        Sobrevive y mata el máximo número de aliens.
+        Diviertete capturando huevos.
     </description>
-    <author email="" href="https://github.com/necro369">
-        Necro369
+    <author email="" href="https://github.com/pgonzalez58/Juego-HTML5.git">
+        pgonzalez58
     </author>
     <content src="index.html" />
     <access origin="*" />
